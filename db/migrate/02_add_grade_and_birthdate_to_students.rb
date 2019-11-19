@@ -1,5 +1,5 @@
-class AddGradeAndBirthdateToStudents
+class AddGradeAndBirthdateToStudents < ActiveRecord::
   def change
-    add_column 
+    add_column
   end
 end
